@@ -1,3 +1,4 @@
 Esto es una prueba 2023
+"La fecha de ahora es 2023 (Abril)”
 segundo cambio al archivo prueba.txt
 git show agregado 
