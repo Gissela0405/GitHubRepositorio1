@@ -1,2 +1,3 @@
 Esto es una prueba 2023
 segundo cambio al archivo prueba.txt
+git show agregado 
