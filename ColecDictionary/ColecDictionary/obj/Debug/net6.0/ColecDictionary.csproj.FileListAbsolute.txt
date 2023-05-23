@@ -1,0 +1,60 @@
+/Users/freddypalacios/DAII/ColecDictionary/bin/Debug/net6.0/ColecDictionary
+/Users/freddypalacios/DAII/ColecDictionary/bin/Debug/net6.0/ColecDictionary.deps.json
+/Users/freddypalacios/DAII/ColecDictionary/bin/Debug/net6.0/ColecDictionary.runtimeconfig.json
+/Users/freddypalacios/DAII/ColecDictionary/bin/Debug/net6.0/ColecDictionary.dll
+/Users/freddypalacios/DAII/ColecDictionary/bin/Debug/net6.0/ref/ColecDictionary.dll
+/Users/freddypalacios/DAII/ColecDictionary/bin/Debug/net6.0/ColecDictionary.pdb
+/Users/freddypalacios/DAII/ColecDictionary/obj/Debug/net6.0/ColecDictionary.csproj.AssemblyReference.cache
+/Users/freddypalacios/DAII/ColecDictionary/obj/Debug/net6.0/ColecDictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/freddypalacios/DAII/ColecDictionary/obj/Debug/net6.0/ColecDictionary.AssemblyInfoInputs.cache
+/Users/freddypalacios/DAII/ColecDictionary/obj/Debug/net6.0/ColecDictionary.AssemblyInfo.cs
+/Users/freddypalacios/DAII/ColecDictionary/obj/Debug/net6.0/ColecDictionary.csproj.CoreCompileInputs.cache
+/Users/freddypalacios/DAII/ColecDictionary/obj/Debug/net6.0/ColecDictionary.dll
+/Users/freddypalacios/DAII/ColecDictionary/obj/Debug/net6.0/ref/ColecDictionary.dll
+/Users/freddypalacios/DAII/ColecDictionary/obj/Debug/net6.0/ColecDictionary.pdb
+/Users/freddypalacios/DAII/ColecDictionary/obj/Debug/net6.0/ColecDictionary.genruntimeconfig.cache
+C:/Users/Public/programacion/ColecDictionary/bin/Debug/net6.0/ColecDictionary.exe
+C:/Users/Public/programacion/ColecDictionary/bin/Debug/net6.0/ColecDictionary.deps.json
+C:/Users/Public/programacion/ColecDictionary/bin/Debug/net6.0/ColecDictionary.runtimeconfig.json
+C:/Users/Public/programacion/ColecDictionary/bin/Debug/net6.0/ColecDictionary.dll
+C:/Users/Public/programacion/ColecDictionary/bin/Debug/net6.0/ref/ColecDictionary.dll
+C:/Users/Public/programacion/ColecDictionary/bin/Debug/net6.0/ColecDictionary.pdb
+C:/Users/Public/programacion/ColecDictionary/obj/Debug/net6.0/ColecDictionary.csproj.AssemblyReference.cache
+C:/Users/Public/programacion/ColecDictionary/obj/Debug/net6.0/ColecDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Public/programacion/ColecDictionary/obj/Debug/net6.0/ColecDictionary.AssemblyInfoInputs.cache
+C:/Users/Public/programacion/ColecDictionary/obj/Debug/net6.0/ColecDictionary.AssemblyInfo.cs
+C:/Users/Public/programacion/ColecDictionary/obj/Debug/net6.0/ColecDictionary.csproj.CoreCompileInputs.cache
+C:/Users/Public/programacion/ColecDictionary/obj/Debug/net6.0/ColecDictionary.dll
+C:/Users/Public/programacion/ColecDictionary/obj/Debug/net6.0/ref/ColecDictionary.dll
+C:/Users/Public/programacion/ColecDictionary/obj/Debug/net6.0/ColecDictionary.pdb
+C:/Users/Public/programacion/ColecDictionary/obj/Debug/net6.0/ColecDictionary.genruntimeconfig.cache
+/Users/freddypalacios/DA2(2023)/ColecDictionary/bin/Debug/net6.0/ColecDictionary
+/Users/freddypalacios/DA2(2023)/ColecDictionary/bin/Debug/net6.0/ColecDictionary.deps.json
+/Users/freddypalacios/DA2(2023)/ColecDictionary/bin/Debug/net6.0/ColecDictionary.runtimeconfig.json
+/Users/freddypalacios/DA2(2023)/ColecDictionary/bin/Debug/net6.0/ColecDictionary.dll
+/Users/freddypalacios/DA2(2023)/ColecDictionary/bin/Debug/net6.0/ColecDictionary.pdb
+/Users/freddypalacios/DA2(2023)/ColecDictionary/obj/Debug/net6.0/ColecDictionary.csproj.AssemblyReference.cache
+/Users/freddypalacios/DA2(2023)/ColecDictionary/obj/Debug/net6.0/ColecDictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/freddypalacios/DA2(2023)/ColecDictionary/obj/Debug/net6.0/ColecDictionary.AssemblyInfoInputs.cache
+/Users/freddypalacios/DA2(2023)/ColecDictionary/obj/Debug/net6.0/ColecDictionary.AssemblyInfo.cs
+/Users/freddypalacios/DA2(2023)/ColecDictionary/obj/Debug/net6.0/ColecDictionary.csproj.CoreCompileInputs.cache
+/Users/freddypalacios/DA2(2023)/ColecDictionary/obj/Debug/net6.0/ColecDictionary.dll
+/Users/freddypalacios/DA2(2023)/ColecDictionary/obj/Debug/net6.0/refint/ColecDictionary.dll
+/Users/freddypalacios/DA2(2023)/ColecDictionary/obj/Debug/net6.0/ColecDictionary.pdb
+/Users/freddypalacios/DA2(2023)/ColecDictionary/obj/Debug/net6.0/ColecDictionary.genruntimeconfig.cache
+/Users/freddypalacios/DA2(2023)/ColecDictionary/obj/Debug/net6.0/ref/ColecDictionary.dll
+C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.exe
+C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.deps.json
+C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.runtimeconfig.json
+C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.dll
+C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\bin\Debug\net6.0\ref\ColecDictionary.dll
+C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.pdb
+C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.csproj.AssemblyReference.cache
+C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.AssemblyInfoInputs.cache
+C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.AssemblyInfo.cs
+C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.dll
+C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\obj\Debug\net6.0\ref\ColecDictionary.dll
+C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.pdb
+C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.genruntimeconfig.cache
