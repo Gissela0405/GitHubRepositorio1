@@ -19,7 +19,7 @@ for (var i = 0; i < Poblacion.Length; i++)
     if (Poblacion[i] == minDep)
         minDepkey = Departamento[i];
 }
-//mostrar el diccionario sin ordenar 
+//mostrar el diccionario sin ordenar
 Console.WriteLine($"datos Desordenados");
 foreach (var item in diccionario)
 Console.WriteLine($"{item.Key,-20}==>{item.Value,10:NO}");
