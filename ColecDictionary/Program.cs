@@ -15,11 +15,7 @@ string maxDepkey = "", minDepkey = "";
 for (var i = 0; i < Poblacion.Length; i++)
 {
     if (Poblacion[i] == maxDep)
-        maxDepkey = Departamento[i];
-    if (Poblacion[i] == minDep)
-        minDepkey = Departamento[i];
-}
-//mostrar el diccionario sin ordenar
+        maxDepkey = De
 Console.WriteLine($"datos Desordenados");
 foreach (var item in diccionario)
 Console.WriteLine($"{item.Key,-20}==>{item.Value,10:NO}");
